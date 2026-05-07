@@ -4,6 +4,22 @@ A lightweight log parsing tool designed to ingest raw logs, normalize fields, an
 
 ---
 
+## How to Run This Script
+
+1. Place your raw log file in the project folder.
+   Example: rawlogs.txt
+
+2. Run the script:
+   powershell.exe -File .\Normalize-Logs.ps1 -InputFile rawlogs.txt -OutputFile normalized.csv
+
+3. Open normalized.csv to review the structured output:
+   - Timestamp
+   - Event type
+   - IP address
+   - Raw message line
+
+---
+
 ## 🔍 Purpose
 To quickly transform messy logs into structured, searchable data that supports SOC investigations.
 
