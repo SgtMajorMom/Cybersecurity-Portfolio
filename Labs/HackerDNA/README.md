@@ -30,7 +30,7 @@ A lab focused on understanding insecure direct object references (IDOR) and how 
 
 ### **Spoof!**
 A practical exercise in email spoofing, header analysis, and understanding how attackers manipulate sender identity.  
-🔗 Full writeup: https://github.com/SgtMajorMom/HackerDNA-Writeups/tree/main/Spoof!
+🔗 Full writeup: https://github.com/SgtMajorMom/HackerDNA-Writeups/blob/main/Spoof!/Spoof.pdf
 
 ### **Anonymous**
 A lab centered on anonymity, metadata leakage, and tracing hidden clues through source code and UI artifacts.  
