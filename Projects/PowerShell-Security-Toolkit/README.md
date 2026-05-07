@@ -58,6 +58,12 @@ This script highlights:
   
 --- 
 
+### 📸 Example Output (Placeholder)
+
+> *Screenshot placeholder — Suspicious Logons output will be added here.*
+
+--- 
+
 ## **Get-UserActivityReview.ps1**
 Provides a summary of user account activity, including authentication patterns and account changes.  
 This script helps identify:
@@ -80,6 +86,12 @@ This script helps identify:
 - Account lockouts  
 - Password changes  
 - Privilege changes  
+
+---
+
+### 📸 Example Output (Placeholder)
+
+> *Screenshot placeholder — User Activity Review output will be added here.*
 
 ---
 
