@@ -9,21 +9,6 @@ To streamline repetitive security tasks such as log parsing, event filtering, us
 
 ---
 
-## How to Run This Script
-
-1. Open PowerShell as Administrator (required to access Security event logs).
-
-2. Run the script:
-   powershell.exe -File .\Get-SuspiciousLogons.ps1
-
-3. Review the suspicious logon events in the output:
-   - Failed logons
-   - Unusual logon types
-   - External IP addresses
-   - Off-hours authentication attempts
-
----
-
 ## 🛠 Tools & Technologies
 - PowerShell 5/7
 - Windows Event Logs
@@ -47,6 +32,21 @@ Each script focuses on a specific security task. Examples include:
 
 ---
 
+## How to Run This Script
+
+1. Open PowerShell as Administrator (required to access Security event logs).
+
+2. Run the script:
+   powershell.exe -File .\Get-SuspiciousLogons.ps1
+
+3. Review the suspicious logon events in the output:
+   - Failed logons
+   - Unusual logon types
+   - External IP addresses
+   - Off-hours authentication attempts
+
+     ---
+     
 ## 📸 Screenshots / Examples
 (You can add screenshots of script output later.)
 
