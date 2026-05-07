@@ -31,8 +31,6 @@ This toolkit automates those tasks to:
 
 Below are the scripts included in this toolkit and how they function.
 
----
-
 ## **Get-SuspiciousLogons.ps1**
 
 Identifies suspicious authentication activity by analyzing Windows Security Event Logs.  
@@ -42,8 +40,6 @@ This script highlights:
 - Unusual logon types  
 - External IP addresses  
 - Off-hours authentication attempts  
-
----
 
 ### **How to Run This Script**
 
@@ -55,14 +51,10 @@ This script highlights:
 - Unusual logon types  
 - External IP addresses  
 - Off-hours authentication attempts  
-  
---- 
 
 ### 📸 Example Output (Placeholder)
 
 > *Screenshot placeholder — Suspicious Logons output will be added here.*
-
---- 
 
 ## **Get-UserActivityReview.ps1**
 Provides a summary of user account activity, including authentication patterns and account changes.  
@@ -87,13 +79,9 @@ This script helps identify:
 - Password changes  
 - Privilege changes  
 
----
-
 ### 📸 Example Output (Placeholder)
 
 > *Screenshot placeholder — User Activity Review output will be added here.*
-
----
 
 ## 📸 Screenshots / Examples
 
