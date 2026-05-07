@@ -26,7 +26,7 @@ This folder contains curated summaries of labs I’ve completed, with links to t
 
 ### **Include Me**
 A lab focused on understanding insecure direct object references (IDOR) and how improper access controls can expose sensitive data.  
-🔗 Full writeup: https://github.com/SgtMajorMom/HackerDNA-Writeups/tree/main/Include%20Me
+🔗 Full writeup: https://github.com/SgtMajorMom/HackerDNA-Writeups/tree/main/Include-Me
 
 ### **Spoof!**
 A practical exercise in email spoofing, header analysis, and understanding how attackers manipulate sender identity.  
