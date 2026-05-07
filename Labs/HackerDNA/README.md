@@ -23,9 +23,23 @@ This folder contains curated summaries of labs I’ve completed, with links to t
 ---
 
 ## 🧪 Completed Labs (Selected)
-- [Lab Name 1] – Summary + link  
-- [Lab Name 2] – Summary + link  
-- [Lab Name 3] – Summary + link  
+
+### **Include Me**
+A lab focused on understanding insecure direct object references (IDOR) and how improper access controls can expose sensitive data.  
+🔗 Full writeup: https://github.com/SgtMajorMom/HackerDNA-Writeups/tree/main/Include%20Me
+
+### **Spoof!**
+A practical exercise in email spoofing, header analysis, and understanding how attackers manipulate sender identity.  
+🔗 Full writeup: https://github.com/SgtMajorMom/HackerDNA-Writeups/tree/main/Spoof!
+
+### **Anonymous**
+A lab centered on anonymity, metadata leakage, and tracing hidden clues through source code and UI artifacts.  
+🔗 Full writeup: https://github.com/SgtMajorMom/HackerDNA-Writeups/tree/main/Anonymous
+
+### **Hack the Login**
+A challenge involving authentication flaws, brute-force logic, and analyzing login mechanisms for weaknesses.  
+🔗 Full writeup: https://github.com/SgtMajorMom/HackerDNA-Writeups/tree/main/Hack%20the%20Login
+  
 
 
 ---
