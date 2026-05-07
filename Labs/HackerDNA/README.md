@@ -38,7 +38,7 @@ A lab centered on anonymity, metadata leakage, and tracing hidden clues through 
 
 ### **Hack the Login**
 A challenge involving authentication flaws, brute-force logic, and analyzing login mechanisms for weaknesses.  
-🔗 Full writeup: https://github.com/SgtMajorMom/HackerDNA-Writeups/blob/main/Hack-the-Login/Hack%20the%20Login.pdf
+🔗 Full writeup: https://github.com/SgtMajorMom/HackerDNA-Writeups/tree/main/Hack-the-Login
   
 
 
