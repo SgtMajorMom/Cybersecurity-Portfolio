@@ -46,8 +46,10 @@ This script highlights:
 1. Open PowerShell as Administrator (required to access Security event logs).
 
 2. Run the script:
+   
 powershell.exe -File .\Get-SuspiciousLogons.ps1
-4. Review the suspicious logon events in the output:
+
+3. Review the suspicious logon events in the output:
 - Failed logons  
 - Unusual logon types  
 - External IP addresses  
@@ -72,6 +74,7 @@ This script helps identify:
 1. Open PowerShell as Administrator.
 
 2. Run the script:
+   
    powershell.exe -File .\Get-UserActivityReview.ps1
 
 3. Review the activity summary:
