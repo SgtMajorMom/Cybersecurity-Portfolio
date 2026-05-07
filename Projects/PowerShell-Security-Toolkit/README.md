@@ -43,6 +43,8 @@ This script highlights:
 - External IP addresses  
 - Off-hours authentication attempts  
 
+---
+
 ### **How to Run This Script**
 
 1. Open PowerShell as Administrator (required to access Security event logs).
