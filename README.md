@@ -20,7 +20,7 @@ I’m an IT Support Specialist with strong experience in identity management, Sa
 - Log forensics  
 - Identity abuse detection  
 
-My goal is to build a portfolio that teaches beginners while demonstrating the mindset and methodology expected of a Security-Minded IT Professionals.
+My goal is to build a portfolio that teaches beginners while demonstrating the mindset and methodology of a security‑minded IT professional.
 
 ---
 
